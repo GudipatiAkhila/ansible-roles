@@ -1,8 +1,0 @@
-- name: testing iclude vs import
-  ansible.builtin.debug:
-    msg: "Hi"
-
-- name: testing iclude vs import  
-ansible.builtin.debug:
-   msg: "Hi"
-    
